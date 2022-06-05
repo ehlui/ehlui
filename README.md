@@ -1,16 +1,13 @@
-### Hi there 👋
+###  Hello
 
-<!--
-**ehlui/ehlui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on two big projects:
+  - A video streaming platform
+  - A job searcher ( 🐍 Scraping jobs and serving them into a web app)
+    
+- 🌱 I’m currently into
+  - ⚛️ Reactive paradigm and Microservices
+  - FastApi Framework (really addicted how it works)
+  - Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Also I’m looking to collaborate on open sources projects
