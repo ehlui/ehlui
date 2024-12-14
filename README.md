@@ -73,6 +73,13 @@
     </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" />
     </a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" width="40" height="40" />
+    </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="k8s" width="40" height="40" />
+    </a>
+  
   
     
 </p>
